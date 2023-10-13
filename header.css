@@ -1,0 +1,24 @@
+.cabecalho__menu-roupas{
+    width: 24px;
+    height: 24px;
+    background-image: url(../imagens/menu-aberto\ 1.png);
+    background-image: no-repeat;
+    display: inline-block;
+}
+
+.cabecalho{
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+
+}
+
+.container__imagem{
+    padding: 1em;
+}
